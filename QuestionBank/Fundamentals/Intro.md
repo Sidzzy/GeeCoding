@@ -1,0 +1,1 @@
+1. Write a program to accept two numbers and print the sum of those two numbers.
